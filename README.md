@@ -1,5 +1,9 @@
 # Atividade prática
 
+#Alunos:
+Luccas Henrique Ribeiro da Silva 05223-053
+João Francisco Bordini Ferreira 05223-012
+
 ## Simulador de Gerenciamento de Memória
 
 Em dupla, desenvolva ou adapte um programa Python capaz de simular algoritmos de substituição de páginas.
