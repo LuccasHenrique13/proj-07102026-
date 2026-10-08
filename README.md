@@ -1,6 +1,6 @@
 # Atividade prática
 
-#Alunos:
+# Alunos:
 Luccas Henrique Ribeiro da Silva 05223-053
 João Francisco Bordini Ferreira 05223-012
 
